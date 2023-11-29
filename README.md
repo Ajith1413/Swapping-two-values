@@ -32,7 +32,7 @@ print(b)
 
 ```
 ## OUTPUT:
-![output](/Swapoutput.png)
+
 
 
 ## RESULT:
