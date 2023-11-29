@@ -33,6 +33,7 @@ print(b)
 ```
 ## OUTPUT:
 
+![Screenshot 2023-11-29 092205](https://github.com/Ajith1413/Swapping-two-values/assets/139842524/24e2c681-8b63-4758-8d4a-ca18d75c771f)
 
 
 ## RESULT:
